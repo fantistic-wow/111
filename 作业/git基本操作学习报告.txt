@@ -1,0 +1,5 @@
+初始化：init.png
+用户信息命名：rename.png
+文件的暂存：stage.png
+gui界面快捷操作：shortcut.png
+图形界面下历史的查看 ：repository->visualize master's history
